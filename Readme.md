@@ -8,7 +8,7 @@ We will be using a simple dataset of used vehicles for our model and try to pred
 ---
 Initial plan:
 <ul>
-  <li> 1. Load the dataset </li>
+  <li> - [x] 1. Load the dataset </li>
   <li> 2. Perform EDA on the dataset </li>
   <li> 3. Generate Plots and visuals </li>
   <li> 4. Select a suitable Machine Learning Model </li>
