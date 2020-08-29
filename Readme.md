@@ -1,5 +1,5 @@
 ## Minor Project
-![CRAN/METACRAN](https://img.shields.io/cran/l/devtools?style=for-the-badge)
+![CRAN/METACRAN](https://img.shields.io/cran/l/devtools?style=for-the-badge) ![Minor Project](https://img.shields.io/badge/Minor%20Project-Welcome%20to%20our%20minor%20project-orange?style=for-the-badge)
 
 ---
 ### Machine Learning Pipeline on Cloud
