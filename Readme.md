@@ -18,4 +18,4 @@ Initial plan:
 </ul>
 
 ---
-- [ ] option 1
+- [x] option 1
