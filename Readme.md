@@ -16,3 +16,6 @@ Initial plan:
   <li> 6. Create a single/double webpage site for the Web App </li>
   <li> 7. Host the whole project on Heroku </li>
 </ul>
+
+---
+- [ ] option 1
