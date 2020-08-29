@@ -6,7 +6,7 @@ The aim of this project is to create a Machine Learning Model and host it on a C
 We will be using a simple dataset of used vehicles for our model and try to predict the price of a vehicle depending values of the features specified by the user/buyer. <br>
 
 ---
-Initial plan:
+### Initial plan:
 <ul>
   <li> - [x] 1. Load the dataset </li>
   <li> - [ ] 2. Perform EDA on the dataset </li>
