@@ -1,4 +1,4 @@
-## Minor Project 1
+## Minor Project
 
 ### Machine Learning Pipeline on Cloud
 
