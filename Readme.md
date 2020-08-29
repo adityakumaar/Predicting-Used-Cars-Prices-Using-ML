@@ -1,3 +1,5 @@
 ## Minor Project 1
 
-### All the description, documentation, source URLs, citations, how-to will be added here
+### Machine Learning Pipeline on Cloud
+
+The aim of this project is to create a Machine Learning Model and host it on a Cloud Application and create a Web Application for accessing it through internet.
