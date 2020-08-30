@@ -23,7 +23,4 @@ We will be using a simple dataset of used vehicles for our model and try to pred
 ### Citations:
 <ul>
   <li> - [ ] 1. </li>
-</ul
-
----
-<p>Some Markdown text with <span style="color:blue">some <em>blue</em> text</span>.</p>
+</ul>
