@@ -19,8 +19,6 @@ We will be using a simple dataset of used vehicles for our model and try to pred
   <li> - [ ] 7. Host the whole project on Heroku </li>
 </ul>
 
-
-
 ---
 ### Citations:
 <ul>
