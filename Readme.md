@@ -20,6 +20,7 @@ We will be using a simple dataset of used vehicles for our model and try to pred
 </ul>
 
 ---
+<h6> *a preview of how the dataset looks </h6>
 <img src = "https://github.com/adityakumaar/ML-Pipeline-On-Cloud/blob/master/extras/vehicle_dataset_sample.png" />
 
 ---
