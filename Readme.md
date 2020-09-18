@@ -8,7 +8,7 @@ The aim of this project is to create a Machine Learning Model and host it on a C
 We will be using a simple dataset of used vehicles for our model and try to predict the price of a vehicle depending values of the features specified by the user/buyer. <br>
 
 ---
-### Initial plan:
+### Initial Plan:
 <ul>
   <li> - [x] 1. Load the dataset </li>
   <li> - [x] 2. Perform EDA on the dataset </li>
@@ -20,6 +20,7 @@ We will be using a simple dataset of used vehicles for our model and try to pred
 </ul>
 
 ---
+### The Dataset
 <h6> *a preview of how the dataset looks </h6>
 <img src = "https://github.com/adityakumaar/ML-Pipeline-On-Cloud/blob/master/extras/vehicle_dataset_sample.png" />
 
