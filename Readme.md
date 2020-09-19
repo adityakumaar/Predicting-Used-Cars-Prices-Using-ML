@@ -17,7 +17,7 @@ Click <a href = "https://github.com/adityakumaar/ML-Pipeline-On-Cloud/blob/maste
   <li> - [x] 4. Select a suitable Machine Learning Model </li>
   <li> - [ ] 5. Develop a Web App using Flask </li>
   <li> - [ ] 6. Create a single/double webpage site for the Web App </li>
-  <li> - [ ] 7. Host the whole project on Heroku </li>
+  <li> - [ ] 7. Deploy the project on Heroku </li>
 </ul>
 
 ---
