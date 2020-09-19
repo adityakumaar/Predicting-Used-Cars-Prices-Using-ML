@@ -30,10 +30,16 @@ Click <a href = "https://github.com/adityakumaar/ML-Pipeline-On-Cloud/blob/maste
 <img src = "https://github.com/adityakumaar/ML-Pipeline-On-Cloud/blob/master/extras/pairplot.png" />
 
 ---
+<!--
 ### Heat Map
 <img src = "https://github.com/adityakumaar/ML-Pipeline-On-Cloud/blob/master/extras/heatmap.png" />
+-->
+<a href="#">
+  <h3> Heat Map </h3>
+  <img align="left" alt="Languages and Tools used" src="https://github.com/adityakumaar/ML-Pipeline-On-Cloud/blob/master/extras/heatmap.png" />
+</a>
+<br>
 
----
 ### Feature Importance
 <img src = "https://github.com/adityakumaar/ML-Pipeline-On-Cloud/blob/master/extras/feature_importance.png" />
 
