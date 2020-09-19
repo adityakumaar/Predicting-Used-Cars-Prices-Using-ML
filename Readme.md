@@ -36,8 +36,3 @@ Click <a href = "https://github.com/adityakumaar/ML-Pipeline-On-Cloud/blob/maste
   <img align = "right" src = "https://github.com/adityakumaar/ML-Pipeline-On-Cloud/blob/master/extras/feature_importance.png" />
 </section>
 
----
-### Citations:
-<ul>
-  <li> </li>
-</ul>
