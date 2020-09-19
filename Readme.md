@@ -47,7 +47,3 @@ Click <a href = "https://github.com/adityakumaar/ML-Pipeline-On-Cloud/blob/maste
 </a>
 <br>
 
----
-### Citations
-
-
