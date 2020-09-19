@@ -25,6 +25,10 @@ We will be using a simple dataset of used vehicles for our model and try to pred
 <img src = "https://github.com/adityakumaar/ML-Pipeline-On-Cloud/blob/master/extras/vehicle_dataset_sample.png" />
 
 ---
+### Pairplot
+<img src = "https://github.com/adityakumaar/ML-Pipeline-On-Cloud/blob/master/extras/pairplot.png" />
+
+---
 ### Citations:
 <ul>
   <li> </li>
