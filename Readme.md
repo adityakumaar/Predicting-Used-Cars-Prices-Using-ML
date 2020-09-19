@@ -41,7 +41,6 @@ Click <a href = "https://github.com/adityakumaar/ML-Pipeline-On-Cloud/blob/maste
   <h3> Heat Map </h3>
   <img align="left" alt="Heat Map" src="https://github.com/adityakumaar/ML-Pipeline-On-Cloud/blob/master/extras/heatmap.png" />
 </a>
-<br>
 <a href="#">
   <h3> Feature Importance </h3>
   <img align="left" alt="Feature Importance" src="https://github.com/adityakumaar/ML-Pipeline-On-Cloud/blob/master/extras/feature_importance.png" />
