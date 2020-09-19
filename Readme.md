@@ -43,7 +43,7 @@ Click <a href = "https://github.com/adityakumaar/ML-Pipeline-On-Cloud/blob/maste
 </a>
 <a href="#">
   <h3> Feature Importance </h3>
-  <img align="left" alt="Feature Importance" src="https://github.com/adityakumaar/ML-Pipeline-On-Cloud/blob/master/extras/feature_importance.png" />
+  <img align="right" alt="Feature Importance" src="https://github.com/adityakumaar/ML-Pipeline-On-Cloud/blob/master/extras/feature_importance.png" />
 </a>
 <br>
 
