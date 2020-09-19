@@ -30,6 +30,10 @@ Click <a href = "https://github.com/adityakumaar/ML-Pipeline-On-Cloud/blob/maste
 <img src = "https://github.com/adityakumaar/ML-Pipeline-On-Cloud/blob/master/extras/pairplot.png" />
 
 ---
+### Heat Map
+<img src = "https://github.com/adityakumaar/ML-Pipeline-On-Cloud/blob/master/extras/heatmap.png" align = "left" />
+
+---
 ### Citations:
 <ul>
   <li> </li>
