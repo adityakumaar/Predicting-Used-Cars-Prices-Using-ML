@@ -31,10 +31,8 @@ Click <a href = "https://github.com/adityakumaar/ML-Pipeline-On-Cloud/blob/maste
 
 ---
 ### Heat Map
-<a>
-  <img align = "left" src = "https://github.com/adityakumaar/ML-Pipeline-On-Cloud/blob/master/extras/heatmap.png" />
-</a>
-<a>
-  <img align = "right" src = "https://github.com/adityakumaar/ML-Pipeline-On-Cloud/blob/master/extras/feature_importance.png" />
-</a>
+![Heat Map](https://github.com/adityakumaar/ML-Pipeline-On-Cloud/blob/master/extras/heatmap.png)
+
+![Feature Importance](https://github.com/adityakumaar/ML-Pipeline-On-Cloud/blob/master/extras/feature_importance.png)
+
 
