@@ -39,6 +39,6 @@ Click <a href = "https://github.com/adityakumaar/ML-Pipeline-On-Cloud/blob/maste
 
 ---
 ### Citations
-- [x] <a href = "https://www.kaggle.com/adityakumaar/vehicle-price-prediction?select=vehicle_dataset.csv" > Data Set </a>
+- [x] <a href = "https://www.kaggle.com/adityakumaar/vehicle-price-prediction?select=vehicle_dataset.csv" > Vehicle Dataset </a>
 - [x] <a href = "https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html" > Random Forest Regressor </a>
 
