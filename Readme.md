@@ -10,11 +10,11 @@ Click <a href = "https://github.com/adityakumaar/ML-Pipeline-On-Cloud/blob/maste
 
 ---
 ### Index
-1. [Initial Plan](#Initial Plan)
-2. [The Dataset](#The Dataset)
+1. [Initial Plan](#initial_plan)
+2. [The Dataset](#the_dataset)
 
 ---
-### Initial Plan:
+### Initial Plan: <a name="initial_plan"></a>
 <ul>
   <li> - [x] 1. Load the dataset </li>
   <li> - [x] 2. Perform EDA on the dataset </li>
@@ -26,7 +26,7 @@ Click <a href = "https://github.com/adityakumaar/ML-Pipeline-On-Cloud/blob/maste
 </ul>
 
 ---
-### The Dataset
+### The Dataset <a name="the_dataset"></a>
 <h6> *a preview of how the dataset looks </h6>
 <img src = "https://github.com/adityakumaar/ML-Pipeline-On-Cloud/blob/master/extras/vehicle_dataset_sample.png" />
 
