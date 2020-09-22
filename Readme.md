@@ -9,7 +9,7 @@ We will be using a simple dataset of used vehicles for our model and try to pred
 Click <a href = "https://github.com/adityakumaar/ML-Pipeline-On-Cloud/blob/master/ML%20Pipeline%20-%20Used%20Vehicles%20Price%20Prediction.ipynb">here</a> to go to the Pipeline. <br>
 
 ---
-### Index
+### Table of Contents
 1. [Initial Plan](#initial_plan)
 2. [The Dataset](#the_dataset)
 3. [Pairplot](#pairplot)
