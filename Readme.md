@@ -12,6 +12,10 @@ Click <a href = "https://github.com/adityakumaar/ML-Pipeline-On-Cloud/blob/maste
 ### Index
 1. [Initial Plan](#initial_plan)
 2. [The Dataset](#the_dataset)
+3. [Pairplot](#pairplot)
+4. [Heat Map](#heatmap)
+5. [Feature Importance](#feature_importance)
+6. [Citations](#citations)
 
 ---
 ### Initial Plan: <a name="initial_plan"></a>
@@ -31,19 +35,19 @@ Click <a href = "https://github.com/adityakumaar/ML-Pipeline-On-Cloud/blob/maste
 <img src = "https://github.com/adityakumaar/ML-Pipeline-On-Cloud/blob/master/extras/vehicle_dataset_sample.png" />
 
 ---
-### Pairplot
+### Pairplot <a name="pairplot"></a>
 <img src = "https://github.com/adityakumaar/ML-Pipeline-On-Cloud/blob/master/extras/pairplot.png" />
 
 ---
-### Heat Map
+### Heat Map <a name="heatmap"></a>
 <img src = "https://github.com/adityakumaar/ML-Pipeline-On-Cloud/blob/master/extras/heatmap.png" />
 
 ---
-### Feature Importance
+### Feature Importance <a name="feature_importance"></a>
 <img src = "https://github.com/adityakumaar/ML-Pipeline-On-Cloud/blob/master/extras/feature_importance.png" />
 
 ---
-### Citations
+### Citations <a name="citations"></a>
 - [x] <a href = "https://www.kaggle.com/adityakumaar/vehicle-price-prediction?select=vehicle_dataset.csv" > Vehicle Dataset </a>
 - [x] <a href = "https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html" > Random Forest Regressor </a>
 
