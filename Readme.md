@@ -7,7 +7,7 @@
 The aim of this project is to create a Machine Learning Model and host it on a Cloud Application and create a Web Application for accessing it through internet. <br> <br>
 We will be using a simple dataset of used vehicles for our model and try to predict the price of a vehicle depending values of the features specified by the user/buyer. <br> <br>
 Click <a href = "https://github.com/adityakumaar/ML-Pipeline-On-Cloud/blob/master/ML%20Pipeline%20-%20Used%20Vehicles%20Price%20Prediction.ipynb">here</a> to go to the Pipeline. <br>
-Click <a href="https://minor-1.herokuapp.com/">here</a> to go to temporary hosted WebApp. <br>
+Click <a href="https://minor-1.herokuapp.com/">here</a> to view temporary hosted WebApp. <br>
 
 ---
 ### Table of Contents
