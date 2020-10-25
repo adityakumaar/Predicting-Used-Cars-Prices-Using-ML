@@ -24,9 +24,9 @@ Click <a href = "https://github.com/adityakumaar/ML-Pipeline-On-Cloud/blob/maste
   <li> - [x] 2. Perform EDA on the dataset </li>
   <li> - [x] 3. Generate Plots and visuals </li>
   <li> - [x] 4. Select a suitable Machine Learning Model </li>
-  <li> - [ ] 5. Develop a Web App using Flask </li>
-  <li> - [ ] 6. Create a single/double webpage site for the Web App </li>
-  <li> - [ ] 7. Deploy the project on Heroku </li>
+  <li> - [x] 5. Develop a Web App using Flask </li>
+  <li> - [x] 6. Create a single/double webpage site for the Web App </li>
+  <li> - [x] 7. Deploy the project on Heroku </li>
 </ul>
 
 ---
@@ -47,7 +47,10 @@ Click <a href = "https://github.com/adityakumaar/ML-Pipeline-On-Cloud/blob/maste
 <img src = "https://github.com/adityakumaar/ML-Pipeline-On-Cloud/blob/master/extras/feature_importance.png" />
 
 ---
+### Tableau Dashboard
+<a src="https://public.tableau.com/views/MinorProjectDashboard/Dashboard?:language=en&:display_count=y&:origin=viz_share_link"> </a>
+
+---
 ### Citations <a name="citations"></a>
 - [x] <a href = "https://www.kaggle.com/adityakumaar/vehicle-price-prediction?select=vehicle_dataset.csv" > Vehicle Dataset </a>
 - [x] <a href = "https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html" > Random Forest Regressor </a>
-
