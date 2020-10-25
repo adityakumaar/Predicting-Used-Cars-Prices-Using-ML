@@ -48,7 +48,7 @@ Click <a href = "https://github.com/adityakumaar/ML-Pipeline-On-Cloud/blob/maste
 
 ---
 ### Tableau Dashboard
-<a href="https://public.tableau.com/views/MinorProjectDashboard/Dashboard?:language=en&:display_count=y&:origin=viz_share_link"> </a>
+<img src="https://github.com/adityakumaar/ML-Pipeline-On-Cloud/blob/master/extras/tableau_dashboard.PNG" />
 
 ---
 ### Citations <a name="citations"></a>
