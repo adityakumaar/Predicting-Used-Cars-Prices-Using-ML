@@ -24,11 +24,11 @@ Click <a href = "https://github.com/adityakumaar/ML-Pipeline-On-Cloud/blob/maste
   <li> - [x] 2. Perform EDA on the dataset </li>
   <li> - [x] 3. Generate Plots and visuals </li>
   <li> - [x] 4. Select a suitable Machine Learning Model </li>
-  <li> - [x] 5. Develop a Web App using Flask </li>
-  <li> - [x] 6. Create a single/double webpage site for the Web App </li>
-  <li> - [x] 7. Deploy the project on Heroku </li>
-  <li> - [ ] 8. Create a Tableau Dashboard </li>
-  <li> - [ ] 9. Embed the Dashboard into WebApp </li>
+  <li> - [x] 5. Create a Tableau Dashboard </li>
+  <li> - [x] 6. Develop a Web App using Flask </li>
+  <li> - [ ] 7. Create a single/double webpage site for the Web App </li>
+  <li> - [ ] 8. Embed the Dashboard into WebApp </li>
+  <li> - [ ] 9. Deploy the project on Heroku </li>
 </ul>
 
 ---
