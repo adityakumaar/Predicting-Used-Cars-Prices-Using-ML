@@ -50,7 +50,7 @@ Click <a href = "https://github.com/adityakumaar/ML-Pipeline-On-Cloud/blob/maste
 
 ---
 ### Tableau Dashboard
-<a src = "https://public.tableau.com/views/MinorProjectDashboard/Dashboard?:language=en&:display_count=y&:origin=viz_share_link" > Tableau Dashboard </a>
+<a href = "https://public.tableau.com/views/MinorProjectDashboard/Dashboard?:language=en&:display_count=y&:origin=viz_share_link" > Tableau Dashboard </a>
 <img src="https://github.com/adityakumaar/ML-Pipeline-On-Cloud/blob/master/extras/tableau_dashboard.PNG" />
 
 ---
