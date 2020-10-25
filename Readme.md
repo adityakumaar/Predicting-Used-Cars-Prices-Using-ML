@@ -2,22 +2,23 @@
 ![CRAN/METACRAN](https://img.shields.io/cran/l/devtools?style=for-the-badge) ![Minor Project](https://img.shields.io/badge/Minor%20Project-ML%20on%20Cloud-orange?style=for-the-badge)
 
 ---
-### Machine Learning Pipeline on Cloud
+### Table of Contents
+1. [Introduction](#introduction)
+2. [Initial Plan](#initial_plan)
+3. [The Dataset](#the_dataset)
+4. [Pairplot](#pairplot)
+5. [Heat Map](#heatmap)
+6. [Feature Importance](#feature_importance)
+7. [Tableau Dashboard](#tableau_dashboard)
+8. [Citations](#citations)
+
+---
+### Machine Learning Pipeline on Cloud <a name="introduction"></a>
 
 The aim of this project is to create a Machine Learning Model and host it on a Cloud Application and create a Web Application for accessing it through internet. <br> <br>
 We will be using a simple dataset of used vehicles for our model and try to predict the price of a vehicle depending values of the features specified by the user/buyer. <br> <br>
 Click <a href = "https://github.com/adityakumaar/ML-Pipeline-On-Cloud/blob/master/ML%20Pipeline%20-%20Used%20Vehicles%20Price%20Prediction.ipynb">here</a> to go to the Pipeline. <br>
 Click <a href="https://minor-1.herokuapp.com/">here</a> to view temporary hosted WebApp. <br>
-
----
-### Table of Contents
-1. [Initial Plan](#initial_plan)
-2. [The Dataset](#the_dataset)
-3. [Pairplot](#pairplot)
-4. [Heat Map](#heatmap)
-5. [Feature Importance](#feature_importance)
-6. [Tableau Dashboard](#tableau_dashboard)
-6. [Citations](#citations)
 
 ---
 ### Initial Plan: <a name="initial_plan"></a>
