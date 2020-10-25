@@ -15,6 +15,7 @@ Click <a href = "https://github.com/adityakumaar/ML-Pipeline-On-Cloud/blob/maste
 3. [Pairplot](#pairplot)
 4. [Heat Map](#heatmap)
 5. [Feature Importance](#feature_importance)
+6. [Tableau Dashboard](#tableau_dashboard)
 6. [Citations](#citations)
 
 ---
@@ -49,7 +50,7 @@ Click <a href = "https://github.com/adityakumaar/ML-Pipeline-On-Cloud/blob/maste
 <img src = "https://github.com/adityakumaar/ML-Pipeline-On-Cloud/blob/master/extras/feature_importance.png" />
 
 ---
-### Tableau Dashboard
+### Tableau Dashboard <a name="tableau_dashboard"></a>
 You can access the interactive dashboard <a href = "https://public.tableau.com/views/MinorProjectDashboard/Dashboard?:language=en&:display_count=y&:origin=viz_share_link" > here </a>
 <img src="https://github.com/adityakumaar/ML-Pipeline-On-Cloud/blob/master/extras/tableau_dashboard.PNG" />
 
