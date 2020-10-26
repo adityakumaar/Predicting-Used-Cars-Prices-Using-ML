@@ -36,7 +36,7 @@ Click <a href="https://minor-1.herokuapp.com/">here</a> to view temporary hosted
 
 ---
 ### The Dataset <a name="the_dataset"></a>
-<h6> *a preview of how the dataset looks </h6>
+<h6> *a preview of the dataset </h6>
 <img src = "https://github.com/adityakumaar/ML-Pipeline-On-Cloud/blob/master/extras/vehicle_dataset_sample.png" />
 
 ---
