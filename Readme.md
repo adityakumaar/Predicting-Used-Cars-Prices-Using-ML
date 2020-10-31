@@ -1,5 +1,5 @@
 ## Minor Project: Deploying a Machine Learning Pipeline on Cloud
-![CRAN/METACRAN](https://img.shields.io/cran/l/devtools?style=for-the-badge) ![Minor Project](https://img.shields.io/badge/Minor%20Project-ML%20on%20Cloud-orange?style=for-the-badge)
+![CRAN/METACRAN](https://img.shields.io/cran/l/devtools?style=for-the-badge) ![Minor Project](https://img.shields.io/badge/Minor%20Project-ML%20on%20Cloud-orange?style=for-the-badge) ![Build}(https://img.shields.io/badge/Build-Passing-blue?style=for-the-badge&logo=appveyor)
 
 ---
 ### Table of Contents
