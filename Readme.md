@@ -29,9 +29,9 @@ We will be using a simple dataset of used vehicles for our model and try to pred
   <li> - [x] 4. Select a suitable Machine Learning Model </li>
   <li> - [x] 5. Create a Tableau Dashboard </li>
   <li> - [x] 6. Develop a Web App using Flask </li>
-  <li> - [ ] 7. Create a single/double webpage site for the Web App </li>
+  <li> - [x] 7. Create a single/double webpage site for the Web App </li>
   <li> - [ ] 8. Embed the Dashboard into WebApp </li>
-  <li> - [ ] 9. Deploy the project on Heroku </li>
+  <li> - [x] 9. Deploy the project on Heroku </li>
 </ul>
 
 ---
