@@ -53,7 +53,7 @@ We will be using a simple dataset of used vehicles for our model and try to pred
 
 ---
 ### Web Application <a name="webapp_ui"></a>
-<img src = "https://github.com/adityakumaar/ML-Pipeline-On-Cloud/blob/master/extras/webapp_ui.PNG" />
+<img src = "https://github.com/adityakumaar/ML-Pipeline-On-Cloud/blob/master/extras/webapp_ui_new.PNG" />
 
 ---
 ### Tableau Dashboard <a name="tableau_dashboard"></a>
