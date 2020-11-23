@@ -45,7 +45,7 @@ We will be using a simple dataset of used vehicles for our model and try to pred
 
 ---
 ### Heat Map <a name="heatmap"></a>
-<img src = "https://github.com/adityakumaar/ML-Pipeline-On-Cloud/blob/master/extras/heatmap.png" />
+<img src = "https://github.com/adityakumaar/ML-Pipeline-On-Cloud/blob/master/extras/heatmap_new.png" />
 
 ---
 ### Feature Importance <a name="feature_importance"></a>
