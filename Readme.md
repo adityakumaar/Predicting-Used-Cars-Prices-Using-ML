@@ -9,8 +9,9 @@
 4. [Pairplot](#pairplot)
 5. [Heat Map](#heatmap)
 6. [Feature Importance](#feature_importance)
-7. [Tableau Dashboard](#tableau_dashboard)
-8. [Resources](#resources)
+7. [Web Application](#webapp_ui)
+8. [Tableau Dashboard](#tableau_dashboard)
+9. [Resources](#resources)
 
 ---
 ### Machine Learning Pipeline on Cloud <a name="introduction"></a>
@@ -49,6 +50,10 @@ We will be using a simple dataset of used vehicles for our model and try to pred
 ---
 ### Feature Importance <a name="feature_importance"></a>
 <img src = "https://github.com/adityakumaar/ML-Pipeline-On-Cloud/blob/master/extras/feature_importance.png" />
+
+---
+### Web Application <a name="webapp_ui"></a>
+<img src = "https://github.com/adityakumaar/ML-Pipeline-On-Cloud/blob/master/extras/webapp_ui.PNG" />
 
 ---
 ### Tableau Dashboard <a name="tableau_dashboard"></a>
