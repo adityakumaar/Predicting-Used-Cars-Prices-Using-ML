@@ -12,6 +12,7 @@
 7. [Web Application](#webapp_ui)
 8. [Tableau Dashboard](#tableau_dashboard)
 9. [Resources](#resources)
+10. [Motivation](#motivation)
 
 ---
 ### Machine Learning Pipeline on Cloud <a name="introduction"></a>
@@ -65,3 +66,8 @@ We will be using a simple dataset of used vehicles for our model and try to pred
 ### Resources <a name="resources"></a>
 - [x] <a href = "https://www.kaggle.com/adityakumaar/vehicle-price-prediction?select=vehicle_dataset.csv" > Vehicle Dataset </a>
 - [x] <a href = "https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html" > Random Forest Regressor </a>
+
+---
+### Motivation <a name="motivation"></a>
+- [x] <a href = "https://www.redapt.com/blog/why-90-of-machine-learning-models-never-make-it-to-production" > Redapt report </a>
+- [x] <a href = "https://venturebeat.com/ai/why-do-87-of-data-science-projects-never-make-it-into-production/"> Venture beat report </a>
